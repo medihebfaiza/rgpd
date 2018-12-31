@@ -94,7 +94,7 @@ Exceptions peu claires (RAT et ets de - de 250 salariés, EIVP / PIA...
 - Ventilation des responsabilités entre le R et le sous-traitant (ST)
 ⇒ Augmentation du contentieux : 3 767 plaintes auprès de la CNIL (+ 64%)
 
-[Page suivante →](/2._Economie_de_la_loi_du_6_janvier_1978) 
+[Page suivante →](/2.%20Economie%20de%20la%20loi%20du%206%20janvier%201978) 
 
 
 #### Auteur
