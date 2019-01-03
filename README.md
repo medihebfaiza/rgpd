@@ -96,7 +96,6 @@ Exceptions peu claires (RAT et ets de - de 250 salariés, EIVP / PIA...
 
 [Page suivante →](/2.%20Economie%20de%20la%20loi%20du%206%20janvier%201978) 
 
-
 #### Auteur
 Julien Le Clainche - Avocat - Docteur en droit
 
