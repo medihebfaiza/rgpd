@@ -5,7 +5,7 @@
 - Racial
 - Santé
 
-## Données non sensibles :
+## Données particulières (nécessite une autorisation de la CNIL) :
 - Infractions
 - Données biométrique
 - NIR (sécurité sociale)
