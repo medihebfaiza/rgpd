@@ -11,8 +11,8 @@
 - NIR (sécurité sociale)
 
 ## CNIL apres RGPD :
-- activité ne disparait pas mais remplacée par le RAT (Registe des activités de traitement)
-- démarche disparait et remplacé par le PIA (Privacy Impact Assessement - analyse d'impact sur la protection de données)
+- activité (déclaration) ne disparait pas mais remplacée par le RAT (Registe des activités de traitement)
+- démarche (autorisation) disparait et remplacé par le PIA (Privacy Impact Assessement - analyse d'impact sur la protection de données)
 
 Le sous traitant est responsable des traitements effectués par le client
 
