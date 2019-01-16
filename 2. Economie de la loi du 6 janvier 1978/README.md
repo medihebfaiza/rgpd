@@ -21,8 +21,8 @@
 - Santé, vie et orientation sexuelles
 
 ## 2.4 Les traitements particuliers
-- Les données sgénétiques, biométriques...
-- Les données relatives aux infractions, aux condamnations et mesures de sˆureté (Art. 9)
+- Les données génétiques, biométriques...
+- Les données relatives aux infractions, aux condamnations et mesures de sûreté (Art. 9)
 - La recherche dans le domaine de la santé
 - Traitements à des fins : d’évaluation ou d’analyse des pratiques ou des activités de soins et de prévention
 - Journalisme et d’expression littéraire et artistique
@@ -31,7 +31,7 @@
 ## 2.5 La CNIL (Commission nationale de l’informatique et des libertés)
 
 ### La création de la CNIL
-- La première AAI en France
+- La première AAI (Autorités administratives indépendantes) en France
 - Attributions consultatives
 - Pouvoir de décision et de contrôle
 
